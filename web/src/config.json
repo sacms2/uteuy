@@ -1,0 +1,18 @@
+{
+    "apiURL":"/api/",
+    "navHeading":"Drive Downloader",
+    "cardHeading":"Google Drive Downloader",
+    "page":{
+        "dmca":{
+            "title":"DMCA",
+            "text":"DMCA TEXT"
+        },
+        "about":{
+            "title":"About Us",
+            "text":"About Us TEXT"
+        }
+    },
+    "servers": [
+        "https://square-darkness-df1b.6363.workers.dev"
+    ]
+}
